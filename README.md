@@ -2,7 +2,7 @@
 ### Bachelor's Degree in Computer Science from the University of California, Merced
 
 I'm a software engineer interested in building practical, user-focused applications.
-I enjoy working across the stack and am currently expanding my skills in **C#** and **Unity**.
+I enjoy working across the stack and am currently expanding my skills in **C#** and **Godot**.
 Aspiring game and software developer!
 
 ---
